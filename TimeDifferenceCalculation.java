@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 
-public class  Assignment2_sm8847{
+public class  TimeDifferenceCalculation{
 	public static void main(String[] args) {
 
 		Scanner Time = new Scanner(System.in);
