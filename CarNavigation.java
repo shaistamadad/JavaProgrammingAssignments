@@ -1,5 +1,5 @@
 import java.util.*;
-public class  car_sm8847{
+public class  CarNavigation{
 	public static void main(String[] args) {
 	// **First assign values to attributes of car using the different methods **\\
 
